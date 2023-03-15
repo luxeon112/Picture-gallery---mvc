@@ -1,6 +1,6 @@
-## Newspaper
+## Picture gallery
 
-Newspaper is a simple express app that allows you to create a simple blog.
+Picture gallery is a simple app that allows you to look pictures.
 
 ### Installation
 
